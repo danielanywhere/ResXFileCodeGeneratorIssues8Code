@@ -1,4 +1,4 @@
-﻿//	HtmlControl.cs
+//	HtmlControl.cs
 //	Copyright(c) 2022. Ascendant Design and Training, LLC
 //	This file is licensed under the MIT License.
 //	Please see the LICENSE file in this project.
@@ -58,7 +58,7 @@ namespace WebViewCoreControlTest
 <body>
 <p>Error loading HTML from resource. Please see debug/trace stream for more information.</p>
 <p>ResourceMain will work from here if 
-ResourceMain.Designer.cs.ResourceManager uses namespace prefixes on line 42.</p>
+WebViewCoreControlTest\ResourceMain.Designer.cs: ResourceManager uses namespace prefixes on line 42.</p>
 </body>
 </html>";
 				}
