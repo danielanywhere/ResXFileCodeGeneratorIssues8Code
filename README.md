@@ -18,7 +18,7 @@ You will see the following form.
  - Stop the application and open code view on WebViewCoreControlTest / ResourceMain.Designer.cs at line 42.
  - Change the portion of the line that reads <code>System.Resources.ResourceManager("<b>ResourceMain</b>", typeof(<b>ResourceMain</b>).Assembly)</code> to read <code>System.Resources.ResourceManager("<b>WebViewCoreControlTest.ResourceMain</b>", typeof(<b>WebViewCoreControlTest.ResourceMain</b>).Assembly)</code>
 
-After working-around the issue, notice that the control will properly display information from the local resx file.
+After working-around the issue, run the application again and notice that the control will properly display information from the local resx file.
 
 <img src="Images/Form1WithoutError.png" style="width:5in;height:3.05in" />
 
